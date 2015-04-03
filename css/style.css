@@ -25,3 +25,45 @@ hr{
 a {
 	text-decoration: none;
 }
+
+.sprite {
+    background-image: url(./img/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-email-48-black {
+    width: 48px;
+    height: 48px;
+    background-position: -5px -5px;
+}
+
+.sprite-facebook-48-black {
+    width: 48px;
+    height: 48px;
+    background-position: -63px -5px;
+}
+
+.sprite-github-48-black {
+    width: 48px;
+    height: 48px;
+    background-position: -5px -63px;
+}
+
+.sprite-linkedin-48-black {
+    width: 48px;
+    height: 48px;
+    background-position: -63px -63px;
+}
+
+.sprite-stackoverflow-48-black {
+    width: 48px;
+    height: 48px;
+    background-position: -121px -5px;
+}
+
+.sprite-twitter-48-black {
+    width: 48px;
+    height: 48px;
+    background-position: -121px -63px;
+}
