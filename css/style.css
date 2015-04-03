@@ -2,7 +2,7 @@ body {
 	width: 50%;
 	margin: 0 auto;
 	font-family: "Helvetica";
-	font-size: 14px;
+	font-size: 16px;
 	text-align: center;
 }
 
@@ -10,6 +10,16 @@ div#main{
 	margin-top: 40%;
 }
 
+div.name{
+	font-weight: bold;
+}
+
+hr{
+	border: none;
+	height: 2px;
+	color: #333;
+	background-color: #333;
+}
 
 a {
 	text-decoration: none;
