@@ -1,3 +1,7 @@
+html{
+	height: 100%;
+}
+
 body {
 	width: 50%;
 	min-width: 320px;
@@ -5,10 +9,14 @@ body {
 	font-family: "Helvetica";
 	font-size: 16px;
 	text-align: center;
+    background: -webkit-linear-gradient(lightgray, white, lightgray); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(lightgray, white, lightgray); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(lightgray, white, lightgray); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(lightgray, white, lightgray); /* Standard syntax (must be last) */
 }
 
 div#main{
-	margin-top: 40%;
+	padding-top: 40%;
 }
 
 div.name{
