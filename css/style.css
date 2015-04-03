@@ -1,5 +1,6 @@
 body {
 	width: 50%;
+	min-width: 320px;
 	margin: 0 auto;
 	font-family: "Helvetica";
 	font-size: 16px;
