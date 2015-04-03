@@ -1,9 +1,15 @@
 body {
-	width: 100%;
+	width: 50%;
+	margin: 0 auto;
+	font-family: "Helvetica";
 	font-size: 14px;
 	text-align: center;
-	margin: 40px;
 }
+
+div#main{
+	margin-top: 40%;
+}
+
 
 a {
 	text-decoration: none;
