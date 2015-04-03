@@ -29,7 +29,7 @@ a {
 .sprite {
     background-image: url(../img/spritesheet.png);
     background-repeat: no-repeat;
-    display: block;
+    display: inline-block;
 }
 
 .sprite-email-48-black {
